@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.mo setf modelica
+au BufNewFile,BufRead *.mo set filetype=modelica
