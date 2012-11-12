@@ -41,6 +41,9 @@ syn keyword modelicaStatement fixed
 syn keyword modelicaStatement flow
 syn keyword modelicaStatement for
 syn keyword modelicaStatement function
+syn keyword modelicaStatement operator
+syn keyword modelicaStatement pure
+syn keyword modelicaStatement impure
 syn keyword modelicaStatement if
 syn keyword modelicaStatement import
 syn keyword modelicaStatement in
