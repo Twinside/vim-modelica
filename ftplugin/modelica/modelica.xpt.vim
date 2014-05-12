@@ -57,7 +57,7 @@ end `blockName^;
 XPT forin " for ... in ... loop ... end loop;
 for `var^ in `range^ loop
     `cursor^
-end loop;
+end for;
 
 XPT enum " type ... = enumeration ( ... )
 type `typename^ = enumeration( `enumInfo^`...^, `subInfo^`...^)
