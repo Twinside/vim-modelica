@@ -35,7 +35,7 @@ XPT typer " type ... = Real (unit=...)
 type `typename^ = Real(`quantity...{{^quantity="`quantity^", `}}^unit="`unit^")
 
 XPT while " while ... then ... end while;
-while `cond^ then
+while `cond^ loop
     `cursor^
 end while;
 
